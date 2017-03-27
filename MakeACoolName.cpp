@@ -4,7 +4,7 @@
  
 string makeACoolName(int length)
 {
-   string vowels = "aeiouy";
+   string vowels = "aeiouy"; // in this case, allow y to be a vowel
    string consonants = "bcdfghjklmnpqrstvwxz";
 
    string name = "";
